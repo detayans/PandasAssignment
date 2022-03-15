@@ -2,7 +2,6 @@
 1) Generate an array of zeroes using inbuilt numpy function.
  
 2) Run the given code and find the dot product of both arrays.
-import numpy as np
 
 3)Read the csv file provided using pandas and display the first 5 entries
  
